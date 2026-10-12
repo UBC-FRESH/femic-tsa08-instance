@@ -1,0 +1,36 @@
+ACTIONS
+*ACTION cc Y
+*OPERABLE cc
+8 managed 801000 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801001 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801002 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801003 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801004 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801005 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801006 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801007 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801008 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801009 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 801010 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802000 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802001 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802002 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802003 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802004 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802005 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802006 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802007 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802008 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802009 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 802010 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803000 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803001 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803002 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803003 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803004 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803005 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803006 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803007 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803008 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803009 ? ? _AGE >= 8 AND _AGE <= 40
+8 managed 803010 ? ? _AGE >= 8 AND _AGE <= 40

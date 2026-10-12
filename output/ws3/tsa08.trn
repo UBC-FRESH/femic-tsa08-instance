@@ -1,0 +1,67 @@
+*CASE cc
+*SOURCE 8 managed 801000 ? ?
+*TARGET 8 managed 801000 bwbs_sb 801000 100
+*SOURCE 8 managed 801001 ? ?
+*TARGET 8 managed 801001 bwbs_at 801001 100
+*SOURCE 8 managed 801002 ? ?
+*TARGET 8 managed 801002 bwbs_pl 801002 100
+*SOURCE 8 managed 801003 ? ?
+*TARGET 8 managed 801003 bwbs_sw 821003 100
+*SOURCE 8 managed 801004 ? ?
+*TARGET 8 managed 801004 bwbs_s 801004 100
+*SOURCE 8 managed 801005 ? ?
+*TARGET 8 managed 801005 swb_s 801005 100
+*SOURCE 8 managed 801006 ? ?
+*TARGET 8 managed 801006 bwbs_ep 801006 100
+*SOURCE 8 managed 801007 ? ?
+*TARGET 8 managed 801007 swb_pl 801007 100
+*SOURCE 8 managed 801008 ? ?
+*TARGET 8 managed 801008 bwbs_pl+at 801008 100
+*SOURCE 8 managed 801009 ? ?
+*TARGET 8 managed 801009 bwbs_at+sw 801009 100
+*SOURCE 8 managed 801010 ? ?
+*TARGET 8 managed 801010 bwbs_sw+at 821010 100
+*SOURCE 8 managed 802000 ? ?
+*TARGET 8 managed 802000 bwbs_sb 802000 100
+*SOURCE 8 managed 802001 ? ?
+*TARGET 8 managed 802001 bwbs_at 802001 100
+*SOURCE 8 managed 802002 ? ?
+*TARGET 8 managed 802002 bwbs_pl 802002 100
+*SOURCE 8 managed 802003 ? ?
+*TARGET 8 managed 802003 bwbs_sw 822003 100
+*SOURCE 8 managed 802004 ? ?
+*TARGET 8 managed 802004 bwbs_s 802004 100
+*SOURCE 8 managed 802005 ? ?
+*TARGET 8 managed 802005 swb_s 802005 100
+*SOURCE 8 managed 802006 ? ?
+*TARGET 8 managed 802006 bwbs_ep 802006 100
+*SOURCE 8 managed 802007 ? ?
+*TARGET 8 managed 802007 swb_pl 802007 100
+*SOURCE 8 managed 802008 ? ?
+*TARGET 8 managed 802008 bwbs_pl+at 802008 100
+*SOURCE 8 managed 802009 ? ?
+*TARGET 8 managed 802009 bwbs_at+sw 802009 100
+*SOURCE 8 managed 802010 ? ?
+*TARGET 8 managed 802010 bwbs_sw+at 822010 100
+*SOURCE 8 managed 803000 ? ?
+*TARGET 8 managed 803000 bwbs_sb 803000 100
+*SOURCE 8 managed 803001 ? ?
+*TARGET 8 managed 803001 bwbs_at 803001 100
+*SOURCE 8 managed 803002 ? ?
+*TARGET 8 managed 803002 bwbs_pl 803002 100
+*SOURCE 8 managed 803003 ? ?
+*TARGET 8 managed 803003 bwbs_sw 823003 100
+*SOURCE 8 managed 803004 ? ?
+*TARGET 8 managed 803004 bwbs_s 823004 100
+*SOURCE 8 managed 803005 ? ?
+*TARGET 8 managed 803005 swb_s 823005 100
+*SOURCE 8 managed 803006 ? ?
+*TARGET 8 managed 803006 bwbs_ep 803006 100
+*SOURCE 8 managed 803007 ? ?
+*TARGET 8 managed 803007 swb_pl 803007 100
+*SOURCE 8 managed 803008 ? ?
+*TARGET 8 managed 803008 bwbs_pl+at 823008 100
+*SOURCE 8 managed 803009 ? ?
+*TARGET 8 managed 803009 bwbs_at+sw 803009 100
+*SOURCE 8 managed 803010 ? ?
+*TARGET 8 managed 803010 bwbs_sw+at 823010 100
